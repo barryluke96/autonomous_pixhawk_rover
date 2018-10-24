@@ -36,7 +36,9 @@ Alternatively you can skip most of the part by simply by downloading the pre-con
 
 ## Test run
 
-Head over to [00_dronekit_test](https://github.com/hafiz-kamilin/autonomous_pixhawk_rover/tree/master/01_pixhawk_rpi_mavlink/00_dronekit_test) folder, download the python codes and run it on your Raspberry Pi connected to PixHawk microcontroller to see if DroneKit-Python API are being installed and configured properly.
+Head over to [00_dronekit_test](https://github.com/hafiz-kamilin/autonomous_pixhawk_rover/tree/master/01_pixhawk_rpi_mavlink/00_dronekit_test) folder and download the contents on your PC first, then use Bitvise SSH Client to transfer it to Raspberry Pi via built in SFTP File Transfers. After that run it to see if DroneKit-Python API are being installed and configured properly.
+
+
 
 ## Tips
 
